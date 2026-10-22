@@ -4,7 +4,7 @@ A vacation rental web app inspired by Airbnb. You can browse places to stay, lis
 
 It's a learning project and isn't affiliated with Airbnb.
 
-**Live demo:** (https://wonderlust-awqy.onrender.com/listings)
+**Live demo:** https://wonderlust-awqy.onrender.com/listings
 
 <!--# Screenshots -->
 
